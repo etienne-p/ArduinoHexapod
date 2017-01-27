@@ -21,8 +21,9 @@ The robot was built using an **Afinibot 3D printer**.
 
 ![3D Printing](/img/printing.png)
 
-Pieces were designed using **OpenSCAD** 
-![OpenSCAD](/img/openscad.png)
+Pieces were designed using **OpenSCAD**
+
+![OpenSCAD](/img/openscad.png)<br>
 except for the shoulders which were grabbed here: [Mini Quadruped - optimized for 9G servos](http://www.thingiverse.com/thing:38159).
 
 
