@@ -96,7 +96,7 @@ void loop()
    updateSteering();
    updateLocomotion();
    updateServos();
-   //delay(100);
+   delay(50);
 }
 
 

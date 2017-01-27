@@ -11,13 +11,19 @@ This is an Arduino based hexapod robot. The main goal of the project was coming 
 
 - **Hexapod** is the source code of the robot itself, including the Central Pattern Generator, the servos controller, the websocket client, ...
 
+![Console And Joystick](/img/console.gif)
+*The Python console and the Arduino based Joystick*
+
+
 ### Hardware
 
 The robot was built using an **Afinibot 3D printer**.
 
 ![3D Printing](/img/printing.png)
 
-Pieces were designed using **OpenSCAD**, except for the shoulders which were grabbed here: [Mini Quadruped - optimized for 9G servos](http://www.thingiverse.com/thing:38159).
+Pieces were designed using **OpenSCAD** 
+![OpenSCAD](/img/openscad.png)
+except for the shoulders which were grabbed here: [Mini Quadruped - optimized for 9G servos](http://www.thingiverse.com/thing:38159).
 
 
 The microcontroller is a **Wemos D1** board which is a Wifi enabled Arduino compatible board. This way the robot's configuration can be modified on runtime using websockets and JSON.
