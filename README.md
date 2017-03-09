@@ -12,6 +12,7 @@ This is an Arduino based hexapod robot. The main goal of the project was coming 
 - **Hexapod** is the source code of the robot itself, including the Central Pattern Generator, the servos controller, the websocket client, ...
 
 ![Console And Joystick](/img/console.gif)
+
 *The Python console and the Arduino based Joystick*
 
 
